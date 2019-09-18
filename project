@@ -1,0 +1,336 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Company Profile</title>
+  </head>
+  <body>
+  <!--<nav class="navbar navbar-expand-lg navbar-dark bg-success fixed-top">agar navbar tetap diatas maupun di scroll fixed stop-->
+<!--<ul class="nav justify-content-end navbar-dark bg-light fixed-top">
+	<p></p>
+  	<li class="nav-item">
+    	<button type="button" class="btn btn-light">HOME</button>
+  	</li>
+  	<li class="nav-item">
+   	 	<button type="button" class="btn btn-light">TENTANG KAMI</button>
+  	</li>
+  	<li class="nav-item">
+    	<button type="button" class="btn btn-light">PRODUK DAN LAYANAN</button>
+ 	</li>
+  	<li class="nav-item">
+    	<button type="button" class="btn btn-light">GALLERY</button>
+  	</li>
+  	<li class="nav-item">
+    	<button type="button" class="btn btn-light">KONTAK KAMI</button>
+  	</li>
+</ul>-->
+
+<!--<div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+    <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+  </ol>
+  <div class="container carousel-inner">
+    <div class="carousel-item active">
+      <img src="h.jpg" class="d-block w-100" alt="...">
+       <div class="carousel-caption d-none d-md-block">
+          <h1><strong>FiberCreme™</strong></h1>
+          <h1><strong class="text-body">FiberCreme™</strong></h1>
+          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        </div>
+    </div>
+    <div class="carousel-item">
+      <img src="h1.jpg" class="d-block w-100" alt="...">
+       <div class="carousel-caption d-none d-md-block">
+          <h5>First slide label</h5>
+          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        </div>
+    </div>
+    <div class="carousel-item">
+      <img src="9.jpg" class="d-block w-100" alt="...">
+       <div class="carousel-caption d-none d-md-block">
+          <h5>First slide label</h5>
+          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+        </div>
+    </div>
+  </div>      
+    <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+</div>-->
+
+<div class="pos-f-t fixed-top">
+  <div class="collapse" id="navbarToggleExternalContent">
+    <div class="bg-dark p-4 ">
+      <h5 class="nav-item">
+    	<button type="button" class="btn btn-dark">HOME</button>
+  	  </h5>
+  	  <h5 class="nav-item">
+    	<button type="button" class="btn btn-dark">TENTANG KAMI</button>
+  	  </h5>
+  	  <h5 class="nav-item">
+    	<button type="button" class="btn btn-dark">PRODUK DAN LAYANAN</button>
+  	  </h5>
+  	  <h5 class="nav-item">
+    	<button type="button" class="btn btn-dark">GALLERY</button>
+  	  </h5>
+  	  <h5 class="nav-item">
+    	<button type="button" class="btn btn-dark">KONTAK KAMI</button>
+  	  </h5>
+     <!-- <span class="text-muted">Toggleable via the navbar brand.</span>-->
+    </div>
+  </div>
+
+  <nav class="navbar navbar-dark bg-dark">
+  	<div class="container" align="center">
+  	<img src="logo1.png" width="50" height="50" class="d-inline-block align-top" alt="">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <!--<form class="form-inline">
+    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+  </form> ADA TOMBOL PENCARIAN-->
+  </nav>
+</div>
+	 
+<!--<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-warning">
+		<div class="container" align="center">
+	  <a class="navbar-brand" href="#"></a>
+	  <img src="4.png" width="30" height="30" class="d-inline-block align-top" alt="">
+		 Katniss Shoes
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	  </button>-->
+
+<!--<div class="jumbotron jumbotron-fluid bg-warning">
+  <div class="container">
+    <h1 class="display-4">FiberCreme™</h1>
+    <p class="lead">transform the ordinary into the extraordinary</p>
+  </div>
+</div>-->
+
+<!-- contoh 1 -->
+<div class="jumbotron text-left pt-6" style="background-image: url(p2.jpg);">
+	 <link href="css/bootstrap.min.css" rel="stylesheet">
+    <style type="text/css">
+       .jumbotron .text-left .pt-6{
+    position: relative;
+    background-image:url("b7.jpg");
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+    </style>
+
+  <div class="container mt-5 pt-3">
+    <h1 class="display-4">FiberCreme™</h1>
+    <h1><strong> transform the ordinary into the extraordinary</strong></h1>
+    
+    <p><a href="#" class="btn btn-dark btn-lg">Selengkapnya</a></p>
+ 	
+  </div>
+</div>
+
+
+
+<div class="media container pt-3">
+  <div class="media-body">
+  	<p> </p>
+	<p> </p>
+    <h1 <samp class="mt-0 mb-1">Tentang Kami</samp></h1>
+    <h4 class="mt-0 mb-1">PT Lautan Natural Krimerindo</h4>
+    <p></p>
+   PT Lautan Natural Krimerindo(LNK) is a company specialized in non-diary creamer products. It is our commitment to ensure that you can get the right product for your specific application. Guided by the company’s priority in producing finest quality products makes it available for consumers. The company successfully serves as creamer supplier for emerging industries in cereal, coffee, bakery, and many others.
+  </div>
+  <img src="p1.jpg" class="ml-3" alt="...">
+</div>
+
+<div class="container pt-3 bg-light">
+<h1><u>Produk dan Layanan</u></h1>
+<p></p>
+  <div class="row">
+    <div class="col-sm text-justify">
+      
+		<ul class="list-unstyled">
+ 			<h5><samp> SUB-CATEGORY</samp></h5>
+    	<ul>
+      		<li>Creamer</li>
+     		<li>Fat Powder</li>
+      		<li>Foamer</li>
+      		<li>Healthy Ingredient</li>
+      		<li>Powder Blend</li>
+    	</ul>
+		</ul>
+  </div>
+
+    <div class="col-sm text-justify">
+      	<ul class="list-unstyled">
+ 			<h5><samp>BRANDS</samp></h5>
+      	<ul>
+      		<li>FiberCreme ™</li>
+      		<li>Lautan Dairy ™</li>
+      		<li>Lautan Krimer ™</li>
+      		<li>Lautan Premix ™</li>
+    	</ul>
+		</ul>
+    </div>
+
+    <div class="col-sm text-justify">
+      <ul class="list-unstyled">
+ 			<h5><samp>APPLICATION</samp></h5>
+      	<ul>
+      		<li>Bakery & Decoration</li>
+      		<li>Beverages</li>
+      		<li>Biscuit & Snack</li>
+      		<li>Cereal & Malted Beverages</li>
+      		<li>Confectionary</li>
+      		<li>Ice Cream</li>
+      		<li>Savoury</li>
+    	</ul>
+		</ul>
+    </div>
+  </div>
+</div>
+
+<div class="alert alert-secondary" role="alert">
+	<marquee><strong> PRODUCING HEALTHY
+CONSCIOUS FOOD PRODUCT</strong></marquee>
+</div>
+
+<div class="container pt-3 text-center">
+<h1>Gallery</h1>
+<p></p>
+<div class="card-deck">
+  <div class="card">
+    <img src="1.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Magic on Our Food</h5>
+      <p class="card-text pt-2">It is our commitment to ensure that you can get the right product for your specific application.</p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="2.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Creamer Does Magic on Our Food</h5>
+      <p class="card-text pt-2">It is our commitment to ensure that you can get the right product for your specific application.</p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="3.jpg" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Why do we add creamer to coffee?</h5>
+      <p class="card-text pt-2">PT Lautan Natural Krimerindo is a company specialized in non-diary creamer products…</p>
+    </div>
+  </div>
+</div>
+   
+<!--<div class="media pt-5 text-left">
+  <img src="6.jpg" class="align-self-start mr-5" alt="...">
+  <div class="media-body">
+    <h2 class="mt-0">Cereal & Malted </h2>
+    <h2 class="mt-0">Beverages</h2>
+    <p>
+    <p>Breakfast cereal used to be a favourite breakfast for a fast, </p>
+    <p>easy and inexpensive meal or a quick and easy snack.</p>
+  </div>
+</div>
+
+<div class="media pt-3 container text-left">
+  <div class="media-body">
+    <h5 class="mt-0 mb-1"></h5>
+    <p> Just add our products into the cereal to give more taste and nutrition.</p>
+    <p><samp> OUR PRODUCTS CAN BE USED FOR</samp></p>
+    <p> Instant coffee mixes : 2in1 and 3in1</p>
+    <p> Vending machine Filler</p>
+    <p> Ready to-drink beverages</p>
+    <p> others, chocolate drinks, traditional herbal mixes
+and flavoured powder drink</p>
+  </div>
+  <img src="8.jpg" class="ml-3" alt="...">
+</div>-->
+
+<div class="container mt-5">
+<h2 class="text-center">Contact Us</h2>
+<div class="row">
+
+ <div class="col-4">
+
+ <div class="card">
+  <div class="card-body">
+    <h5><strong class="text-center">Adress and Contact</strong></h5>
+     <h6 class="card-subtitle mb-2"></h6>
+     <p class="text-left">
+     <li class="list-group-item-light">Jl. Raya Mojosari – Pacet Km.4,<br>
+		Mojokerto<br>
+		East Java – Indonesia<br>
+		P: +62 321 599778<br>
+		F: +62 321 599779<br>
+		E: marketing@LNK.com<br>
+              +62 816 530551</li>
+      <style type="text/css">
+      .jumbotron {
+          position: relative;
+          background: url(p2.jpg) center center;
+          color:#fff;
+          width: 1300px center;
+          height: 600px;
+          background-size: cover;
+          overflow: hidden;
+      }
+    </style>
+		</p>
+ </div>
+ </div>
+</div>
+
+  <div class="col-8">
+   <form>
+	<div class="form-group text-left">
+		<label for="nama">Do you have any questions about : non dairy creamer, creamer, coffee creamer, 3 in 1 coffee, functional beverages ? Please contact us using the form below.</label>
+		<input type="text" class="form-control" id="nama" placeholder="Name">
+	</div>
+	<div class="form-group">
+		<input type="text" class="form-control" id="email" placeholder="Email">
+	</div>
+	<div class="form-group">
+		<textarea class="form-control" id="pesan" placeholder="Message"></textarea>
+	</div>	
+	<button type="button" class="btn btn-primary text-left bg-secondary">Kirim</button>
+	</form>
+   </div>
+
+</div>
+</div>
+
+<footer class="bg-secondary text-white mt-4 pt-3">
+		<div class="container">
+			<div class="row">
+				<div class="col text-center">
+				<p> Copyright © 2019 PT LNK. All rights reserved | Developed by VIOLA</p>
+		</div>
+		</div>
+	</footer>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
